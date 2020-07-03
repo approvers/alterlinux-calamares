@@ -5,7 +5,7 @@
 # Additional styling can be done using the stylesheet.qss
 # file, also in the branding directory.
 ---
-componentName:  alter
+componentName:  swilner
 
 # This selects between different welcome texts. When false, uses
 # the traditional "Welcome to the %1 installer.", and when true,
@@ -67,17 +67,17 @@ windowPlacement: center
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         Alter Linux
-    shortProductName:    Alter Linux
+    productName:         Swiler Linux
+    shortProductName:    Swiler Linux
     version:
     shortVersion:
-    versionedName:       Alter Linux
-    shortVersionedName:  Alter Linux
-    bootloaderEntryName: Alter
-    productUrl:          https://fascode.net/projects/linux/alter/
-    supportUrl:          https://github.com/SereneTeam/alterlinux/issues
-    knownIssuesUrl:      https://alterlinux.com
-    releaseNotesUrl:     https://github.com/SereneTeam/alterlinux/releases
+    versionedName:       Swiler Linux
+    shortVersionedName:  Swiler Linux
+    bootloaderEntryName: Swiler
+    productUrl:          
+    supportUrl:          
+    knownIssuesUrl:      
+    releaseNotesUrl:     
 
 # These images are loaded from the branding module directory.
 #
